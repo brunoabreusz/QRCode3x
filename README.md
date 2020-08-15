@@ -30,3 +30,5 @@
 
  <hr>
 
+Codígo por: @brunoabreusz
+Instrutor: @COD3R
